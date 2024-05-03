@@ -1,7 +1,0 @@
-import math
-import statistics
-def main():
-    company_name:str="ABC Corporation"
-    company_description:str="Online Clothing store"
-    owner:str="Mrs. Wallace"
-    
